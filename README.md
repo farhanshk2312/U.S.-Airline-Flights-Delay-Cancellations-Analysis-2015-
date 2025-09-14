@@ -1,5 +1,9 @@
 # U.S. Airline Flights Delay & Cancellations Analysis (2015)
 
+Data Source: https://mavenanalytics.io/data-playground/airline-flight-delays
+
+Records for 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times.
+
 # Project Overview
 
 This project analyzes the U.S. domestic flight dataset for 2015, focusing on flight delays, cancellations, and airline performance.
