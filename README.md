@@ -2,7 +2,7 @@
 
 Data Source: https://mavenanalytics.io/data-playground/airline-flight-delays
 
-Link to Power BI Report: https://app.powerbi.com/reportEmbed?reportId=fd4484c2-baf2-49e0-9437-8fc1b2c51aa8&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159
+Power BI Report: https://app.powerbi.com/reportEmbed?reportId=fd4484c2-baf2-49e0-9437-8fc1b2c51aa8&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159
 
 Records for 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times.
 
