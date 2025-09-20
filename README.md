@@ -138,7 +138,7 @@ These visualizations make trends and problem areas easy to identify.
     
     Interactive Dashboards: Deploying results on Power BI / Tableau / Streamlit.
 
-Use Cases in Portfolio
+## Use Cases in Portfolio
 
     This project demonstrates:
     
